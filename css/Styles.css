@@ -1,0 +1,32 @@
+
+/******Tag Selector*************/
+body {
+  background-color: #DAEAF1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+}
+
+/* h1 {
+  color: #1E5128;
+} */
+
+h3 {
+  color: #4E9F3D;
+}
+
+/**************Id Selector******/
+#founderName{
+  color: #53BF9D;
+}
+
+/*********** class selector ************/
+
+.contact{
+  color: #4E9F3D;
+}
